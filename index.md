@@ -5,12 +5,6 @@ permalink: /
 header: true
 ---
 
-# Josh Chan
-
-## About me
-I am a second-year computer & software engineering student who endeavours to strive for success in my career and personal life.
-
-I am a firm believer of freedom, respect, fairness, and equality of opportunity for all. As such, I am a proponent of free and open source (FOSS) software, and I believe in a future where quality information, software and products should be readily accessible to anyone who requires them.
 
 ## Projects
 
