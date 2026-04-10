@@ -8,16 +8,16 @@ header: true
 
 ## Projects
 
-| Year                   | Project description                                                             | Role                                             |
-| ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 2025 - Present<br><br> | **QUT Electrical Engineering Student Society (EESS)** - Lego Sorter Project<br> | Lead Software Engineer - UI & Application Design |
+| Year                  | Project description                                                             | Role                                             |
+| --------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 2025 -Present<br><br> | **QUT Electrical Engineering Student Society (EESS)** - Lego Sorter Project<br> | Lead Software Engineer - UI & Application Design |
 
 ## Education
 
 | Year           | Title                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 2025 - Present | **Bachelor of Engineering (Honours)<br>(Computer & Software Systems)**<br>at Queensland University of Technology (QUT) |
-| 2022 -2024     | Hills College (Jimboomba) - Year 10 - 12                                                                               |
+| 2022 - 2024    | Hills College (Jimboomba) - Year 10 - 12                                                                               |
 
 ## Achievements
 
@@ -27,6 +27,7 @@ header: true
 | 2024 | College Prefect;<br>STEM Ambassador<br><br>Academic Honours with Distinction<br><br>Most Outstanding International Student | Hills College (Jimboomba)          |
 
 ## Skills & Expertise
+
 <details> 
 <summary>Computer Software</summary>
 <ul>
@@ -72,6 +73,7 @@ header: true
 						Linux - Arch<br>
 						Linux - Debian<br>
 						Linux - Proxmox<br>
+						Windows 10/11
 				</td>
 				<td>
 						Intermediate
@@ -88,6 +90,8 @@ header: true
 			</tr>
 			<tr>
 				<td> 
+						C<br>
+						C#<br>
 						CSS<br>
 						HTML<br>
 						Python<br>
@@ -98,9 +102,9 @@ header: true
 			</tr>
 			<tr>
 				<td> 
+						Assembly<br>
 						Bash<br>
-						C#<br>
-						Javascript<br>
+						JavaScript<br>
 				</td>
 				<td>
 						Novice

@@ -221,6 +221,7 @@
 .portfolio-picture img {
   display: inline-block;
   border-radius: 50%; 
+  padding-top: 1em;
   border: 3px solid grey;
 }
 .portfolio-content {
@@ -238,7 +239,6 @@
 .portfolio-wrapper, .portfolio-body {
   display: block;
 }
-
 
 /**
  * Posts
