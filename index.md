@@ -20,10 +20,10 @@ I am a firm believer of freedom, respect, fairness, and equality of opportunity 
 
 ## Education
 
-| Year           | Title                                                                          |
-| -------------- | ------------------------------------------------------------------------------ |
-| 2025 - Present | Bachelor of Engineering (Honours) at Queensland University of Technology (QUT) |
-| 2022 -2024     | Hills College (Jimboomba) - Year 10 - 12                                       |
+| Year           | Title                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 2025 - Present | **Bachelor of Engineering (Honours)<br>(Computer & Software Systems)**<br>at Queensland University of Technology (QUT) |
+| 2022 -2024     | Hills College (Jimboomba) - Year 10 - 12                                                                               |
 
 ## Achievements
 
@@ -31,7 +31,6 @@ I am a firm believer of freedom, respect, fairness, and equality of opportunity 
 | ---- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | 2025 | QUT Executive Dean’s Commendation for Academic Excellence, Semester One, 2025                                              | Queensland University of Education |
 | 2024 | College Prefect;<br>STEM Ambassador<br><br>Academic Honours with Distinction<br><br>Most Outstanding International Student | Hills College (Jimboomba)          |
-|      |                                                                                                                            |                                    |
 
 ## Skills & Expertise
 <details> 
