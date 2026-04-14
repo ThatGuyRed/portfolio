@@ -14,10 +14,10 @@ header: true
 
 ## Education
 
-| Year           | Title                                                                                                                  |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 2025 - Present | **Bachelor of Engineering (Honours)<br>(Computer & Software Systems)**<br>at Queensland University of Technology (QUT) |
-| 2022 - 2024    | Hills College (Jimboomba) - Year 10 - 12                                                                               |
+| Year           | Title                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2025 - Present | **Bachelor of Engineering (Honours)<br>(Computer and Software Systems)**<br>at Queensland University of Technology (QUT) |
+| 2022 - 2024    | Hills College (Jimboomba) - Year 10 - 12                                                                                 |
 
 ## Achievements
 
