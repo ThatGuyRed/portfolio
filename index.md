@@ -8,10 +8,28 @@ header: true
 
 ## Projects
 
-| Year                  | Project description                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Role                                               |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 2025 -Present<br><br> | **QUT Electrical Engineering Student Society (EESS)** - LEGO Sorter Project<br><br><details><br><p>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:</p><br><ul><br><li> Electrical components and associated logic </li><br><li> Graphical user interface </li><br></ul><br></details><br> | Lead Software Engineer - UI and Application Design |
-
+| Year                  | Project description                                                                                                                                                                                                                                                                                                                                                                                                                                       | Role                                               |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 2025 -Present<br><br> | **QUT Electrical Engineering Student Society (EESS)** - LEGO Sorter Project<br><br><details><br>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:<br><br>- Electrical components and associated logic <br>Graphical user interface <br><br></details><br> | Lead Software Engineer - UI and Application Design |
+<table>
+<tr>
+	<th>Year</th><th>Project description</th><th>Role</th>
+</tr>
+<tr>
+	<td>2025 -Present</td> 
+	<td><b>QUT Electrical Engineering Student Society (EESS)</b> - LEGO Sorter Project</td>
+	<td><b>Lead Software Engineer</b> - UI and Application Design</td>
+</tr>
+<tr>
+	<td colspan=3>
+		<details>
+		<p>The LEGO sorter project involves sorting LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:</p>
+		<ul><li> Electrical components and associated logic </li>
+		<li>Graphical user interface </li></ul>
+		</details>
+	<td>
+</tr>
+</table>
 ## Education
 
 | Year           | Title                                                                                                                    |
