@@ -5,6 +5,7 @@ permalink: /
 header: true
 ---
 ## Experience
+
 | Year           | Title                                                                  | Role                                                                |
 | -------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 2026 - Present | **QUT Peer Program** <br>- EGB202 Peer Leader                          | Assisting student with unit content in-person and over the internet |
@@ -33,20 +34,25 @@ header: true
 ## Skills & Expertise
 
 <details> 
-<summary>Computer Software</summary>
+<summary>Computer Engineering (Electrical and Software)</summary>
 <ul>
 	<details>
 	 <summary> Operating Systems </summary>
 		I am familiar with the operations of systems running the Linux operating system. I have utilised various distributions such as Debian (including derivatives such as Proxmox and Ubuntu), Alpine, as well as Arch in my various project over the years.
 	</details>
 	<details>
+	<summary> Microcontrollers </summary>
+		I am able to develop for AVR and Espressif microcontrollers using frameworks such as PlatformIO, ESP-IDF, Arduino and MicroPython. I am familiar with programming microcontrollers through the use of C and Python.
+	</details>
+	<details>
 	<summary> Web Development </summary>
 		I am able to leverage the Node in conjunction the React framework to create a dynamic front-end web application. I am also able to create a back-end application Express server, although to a more limited extent.
 	</details>
 	<details>
-	<summary> Office & Design </summary>
+	<summary> Office and Design </summary>
 		I am able to utilise software such as a standard office suite, photo editors, video editors, as well as Blender at a competent level.
 	</details>
+	
 	<details>
 	<summary> Programming Languages </summary>
 		<table>
