@@ -9,9 +9,8 @@ header: true
 | Year           | Title                                                                  | Role                                                                |
 | -------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 2026 - Present | **QUT Peer Program** <br>- EGB202 Peer Leader                          | Assisting student with unit content during class hours |
+| 2026 - Present | **QUT Electrical Engineering Student Society** <br>- Education Manager | Responsible for managing the education team in running workshops, study sessions, as well as spearheading new education initiatives.                          |
 | 2026 | **QUT Electrical Engineering Student Society** <br>- Education Officer | Assisted in running existing workshops, study sessions, and authored a workshop focused around EGB202 - Microprocessors and Digital Systems.                         |
-| 2026 - Present | **QUT Electrical Engineering Student Society** <br>- Education Manager | Responsible for managing the education team in running workshops, study sessions, as well as pearheading new education initiatives.                          |
-
 
 
 
@@ -20,7 +19,7 @@ header: true
 | Year                  | Project description                                                                                                                                                                                                                                                                                                                                                                                                                          | Role                                               |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 2026 - Present  | **Personal Project - Simple Calculator**<br><br><details><br>This project combines my expertise in microcontrollers, digital electronics and low level programming to create a practical device for personal use. Through this project, I have developed/utilised the following skills:<br><br>• C Programming <br>• Microcontroller peripherals (Hardware Timers, CPU Interrupts, etc.) <br>• Electronics Design </details> | Electrical and Software Systems Design |
-| 2025 - Present<br><br> | **QUT Electrical Engineering Student Society - LEGO Sorter Project**<br><br><details><br>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:<br><br>• Electrical components and associated logic <br>• Graphical user interface <br></details> | Lead Software Engineer - UI and Application Design |
+| 2025 - Present<br><br> | **QUT Electrical Engineering Student Society - LEGO Sorter Project**<br><br><details><br>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:<br><br>• Electrical components and associated logic <br>• Graphical user interface <br></details> | Electrical and Software Systems Design |
 
 ## Education
 
@@ -43,24 +42,40 @@ header: true
 <ul>
 	<details>
 	 <summary> Operating Systems </summary>
-		I am familiar with and have used various Linux-based systems, including but not limited to: Debian, Ubuntu, Alpine Linux, Arch Linux, etc.
+		I am familiar with and have used various Linux-based systems, including but not limited to: 
+    - Debian, Ubuntu, Alpine Linux, Arch Linux, etc.
 	</details>
+  <br>
 	<details>
 	<summary> Microcontrollers </summary>
 		I am able to develop for AVR and Espressif microcontrollers using frameworks such as PlatformIO, ESP-IDF, Arduino and MicroPython. I am familiar with programming microcontrollers through the use of C and Python.
 	</details>
+  <br>
+  <summary> Electronics </summary>
+		I am familiar with fundamental electrical concepts, as well as various electronic components, such as BJT transistors, logic gates, etc.
+	</details>
+  <br>
+  <summary> Robotics and Computer Vision </summary>
+  <details>
+		I am able to utilise transformation matrices to define and execute a robot's trajectory. I am also able to leverage computer vision
+    toolboxes, such as OpenCV to perform a given image recognition task.
+	</details>
+  <br>
 	<details>
 	<summary> Web Development </summary>
-		I am able to leverage the Node in conjunction the React framework to create a dynamic front-end web application.
+		I am able to leverage the Node in conjunction the React framework to create a dynamic front-end web application. I am also able to utilise Jekyll in conjunction with Markdown to create static web pages like this one.
 	</details>
+  <br>
 	<details>
-	<summary> Office and Design </summary>
+	<summary> Office and Design </summary><details>
 		I am able to utilise software such as a standard office suite, photo editors as well as video editors.
 	</details>
+  <br>
   <summary> CAD Software </summary>
+    <details>
 		I am able to utilise Blender, LTSpice as well as KiCad for various design tasks.
 	</details>
-	
+	<br>
 	<details>
 	<summary> Programming Languages </summary>
 		<table>
@@ -87,28 +102,15 @@ header: true
 						JavaScript<br>
 				</td>
 				<td>
-						Novice
+						Limited Working Proficiency
 				</td>
 			</tr>
 		</table>
 	</details>
 	<details>
-	<summary> Development Software </summary>
-		<table>
-			<tr>
-					<th>Software</th>
-					<th>Proficiency</th>
-			</tr>
-			<tr>
-				<td> 
-						Docker<br>
-				</td>
-				<td>
-						Novice
-				</td>
-			</tr>
-		</table>
-	</details>
+	<summary> Cloud Computing and Server Infrastructure </summary>
+		I am able to software such as Docker and Linux to create services for a local network. 
+    
 </ul>
 </details>
 
@@ -124,7 +126,7 @@ header: true
 					English<br>
 			</td>
 			<td>
-					Advanced
+					Native Proficiency
 			</td>
 		</tr>
 		<tr>
@@ -132,7 +134,7 @@ header: true
 					Cantonese (Chinese)<br>
 			</td>
 			<td>
-					Novice
+					Limited Working Proficiency
 			</td>
 		</tr>
 	</table>
