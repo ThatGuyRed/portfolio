@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "e9d12e3557593dcd",
+    "id": "802b595cccf6a405",
     "type": "split",
     "children": [
       {
-        "id": "03bd01417f08dd6f",
+        "id": "d52a0e9b9903f5a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2fdedef01d4dac9b",
+            "id": "7129b3720102d02a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2c51b80b9f9c7fb",
+    "id": "1a92373cc9446aec",
     "type": "split",
     "children": [
       {
-        "id": "b21f2beec68f4ca9",
+        "id": "4c09836727378ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "2242f29962676e21",
+            "id": "78fc882ffbfdc52b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "07f25eebfa20c591",
+            "id": "58502066fd052c59",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d6e9145426b96b09",
+            "id": "49f2279f07f5e494",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "43ac85cd509c5cc3",
+    "id": "0ff959723cd235fc",
     "type": "split",
     "children": [
       {
-        "id": "194b3080c5f8e01b",
+        "id": "55048379b8b821e2",
         "type": "tabs",
         "children": [
           {
-            "id": "83306c11b78af414",
+            "id": "229bcd606698e63f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "fc41f2baf5facb5a",
+            "id": "259f884dbb7570d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "f13d2a72da6c965d",
+            "id": "640acb6567278f5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "7a3e234319e6fd04",
+            "id": "b2ebd65df599eb1e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +149,7 @@
             }
           },
           {
-            "id": "2052a92a67992c6e",
+            "id": "5e5eac0a786fdb44",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,6 +180,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fdedef01d4dac9b",
+  "active": "7129b3720102d02a",
   "lastOpenFiles": []
 }

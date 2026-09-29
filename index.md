@@ -8,14 +8,19 @@ header: true
 
 | Year           | Title                                                                  | Role                                                                |
 | -------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2026 - Present | **QUT Peer Program** <br>- EGB202 Peer Leader                          | Assisting student with unit content in-person and over the internet |
-| 2026 - Present | **QUT Electrical Engineering Student Society** <br>- Education Officer | Assisting in running educational workshops                          |
+| 2026 - Present | **QUT Peer Program** <br>- EGB202 Peer Leader                          | Assisting student with unit content during class hours |
+| 2026 | **QUT Electrical Engineering Student Society** <br>- Education Officer | Assisted in running existing workshops, study sessions, and authored a workshop focused around EGB202 - Microprocessors and Digital Systems.                         |
+| 2026 - Present | **QUT Electrical Engineering Student Society** <br>- Education Manager | Responsible for managing the education team in running workshops, study sessions, as well as pearheading new education initiatives.                          |
+
+
+
 
 ## Projects
 
 | Year                  | Project description                                                                                                                                                                                                                                                                                                                                                                                                                          | Role                                               |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 2025 -Present<br><br> | **QUT Electrical Engineering Student Society - LEGO Sorter Project**<br><br><details><br>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:<br><br>• Electrical components and associated logic <br>• Graphical user interface <br></details> | Lead Software Engineer - UI and Application Design |
+| 2026 - Present  | **Personal Project - Simple Calculator**<br><br><details><br>This project combines my expertise in microcontrollers, digital electronics and low level programming to create a practical device for personal use. Through this project, I have developed/utilised the following skills:<br><br>• C Programming <br>• Microcontroller peripherals (Hardware Timers, CPU Interrupts, etc.) <br>• Electronics Design </details> | Electrical and Software Systems Design |
+| 2025 - Present<br><br> | **QUT Electrical Engineering Student Society - LEGO Sorter Project**<br><br><details><br>The LEGO sorter project involves sorting <br>LEGO pieces by identifying pieces using computer vision in combination with an external API, then sorting the pieces by utilising mechatronic components. Throughout this project, I have worked on:<br><br>• Electrical components and associated logic <br>• Graphical user interface <br></details> | Lead Software Engineer - UI and Application Design |
 
 ## Education
 
@@ -38,7 +43,7 @@ header: true
 <ul>
 	<details>
 	 <summary> Operating Systems </summary>
-		I am familiar with the operations of systems running the Linux operating system. I have utilised various distributions such as Debian (including derivatives such as Proxmox and Ubuntu), Alpine, as well as Arch in my various project over the years.
+		I am familiar with and have used various Linux-based systems, including but not limited to: Debian, Ubuntu, Alpine Linux, Arch Linux, etc.
 	</details>
 	<details>
 	<summary> Microcontrollers </summary>
@@ -46,11 +51,14 @@ header: true
 	</details>
 	<details>
 	<summary> Web Development </summary>
-		I am able to leverage the Node in conjunction the React framework to create a dynamic front-end web application. I am also able to create a back-end application Express server, although to a more limited extent.
+		I am able to leverage the Node in conjunction the React framework to create a dynamic front-end web application.
 	</details>
 	<details>
 	<summary> Office and Design </summary>
-		I am able to utilise software such as a standard office suite, photo editors, video editors, as well as Blender at a competent level.
+		I am able to utilise software such as a standard office suite, photo editors as well as video editors.
+	</details>
+  <summary> CAD Software </summary>
+		I am able to utilise Blender, LTSpice as well as KiCad for various design tasks.
 	</details>
 	
 	<details>
