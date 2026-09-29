@@ -51,13 +51,13 @@ header: true
 		I am able to develop for AVR and Espressif microcontrollers using frameworks such as PlatformIO, ESP-IDF, Arduino and MicroPython. I am familiar with programming microcontrollers through the use of C and Python.
 	</details>
   <br>
+  <details>
   <summary> Electronics </summary>
-    <details>
 		I am familiar with fundamental electrical concepts, as well as various  electronic components, such as BJT transistors, logic gates, etc.
 	</details>
   <br>
-  <summary> Robotics and Computer Vision </summary>
   <details>
+  <summary> Robotics and Computer Vision </summary>
 		I am able to utilise transformation matrices to define and execute a robot's trajectory. I am also able to leverage computer vision
     toolboxes, such as OpenCV to perform a given image recognition task.
 	</details>
