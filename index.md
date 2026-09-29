@@ -68,7 +68,7 @@ header: true
 	</details>
   <br>
 	<details>
-	<summary> Office and Design </summary><details>
+	<summary> Office and Design </summary>
 		I am able to utilise software such as a standard office suite, photo editors as well as video editors.
 	</details>
   <br>
