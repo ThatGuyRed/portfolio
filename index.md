@@ -114,7 +114,6 @@ header: true
     
 </ul>
 </details>
-
 <details>
 <summary>Spoken Languages</summary>
 	<table>
@@ -139,7 +138,6 @@ header: true
 			</td>
 		</tr>
 	</table>
-	
 </details>
 
 
