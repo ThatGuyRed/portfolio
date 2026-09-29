@@ -52,7 +52,8 @@ header: true
 	</details>
   <br>
   <summary> Electronics </summary>
-		I am familiar with fundamental electrical concepts, as well as various electronic components, such as BJT transistors, logic gates, etc.
+    <details>
+		I am familiar with fundamental electrical concepts, as well as various  electronic components, such as BJT transistors, logic gates, etc.
 	</details>
   <br>
   <summary> Robotics and Computer Vision </summary>
