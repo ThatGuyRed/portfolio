@@ -40,10 +40,12 @@ header: true
 <details> 
 <summary>Computer Engineering (Electrical and Software)</summary>
 <ul>
+  <br>
 	<details>
 	 <summary> Operating Systems </summary>
 		I am familiar with and have used various Linux-based systems, including but not limited to: 
-    - Debian, Ubuntu, Alpine Linux, Arch Linux, etc.
+    <br> 
+    <ul>Debian, Ubuntu, Alpine Linux, Arch Linux, etc.</ul>
 	</details>
   <br>
 	<details>
@@ -116,6 +118,7 @@ header: true
     
 </ul>
 </details>
+<br>
 <details>
 <summary>Spoken Languages</summary>
 	<table>
