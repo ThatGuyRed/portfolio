@@ -72,8 +72,8 @@ header: true
 		I am able to utilise software such as a standard office suite, photo editors as well as video editors.
 	</details>
   <br>
+  <details>
   <summary> CAD Software </summary>
-    <details>
 		I am able to utilise Blender, LTSpice as well as KiCad for various design tasks.
 	</details>
 	<br>
@@ -108,9 +108,11 @@ header: true
 			</tr>
 		</table>
 	</details>
+  <br>
 	<details>
 	<summary> Cloud Computing and Server Infrastructure </summary>
 		I am able to software such as Docker and Linux to create services for a local network. 
+  </details>
     
 </ul>
 </details>
